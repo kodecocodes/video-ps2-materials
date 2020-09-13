@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true'>
+    <pages>
+        <page name='01 - Introduction'/>
+        <page name='02 - Enumerations'/>
+        <page name='03 - Challenge - Enumerations'/>
+        <page name='04 - Switch Statements'/>
+        <page name='05 - More Switch Statements'/>
+        <page name='06 - Challenge - Switch Statements'/>
+        <page name='07 - Associated Values'/>
+        <page name='08 - Conclusion'/>
+    </pages>
+</playground>

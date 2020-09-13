@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true'>
+    <pages>
+        <page name='01 - Introduction'/>
+        <page name='02 - Stored Properties'/>
+        <page name='03 - Computed Properties'/>
+        <page name='04 - Lazy Properties'/>
+        <page name='05 - Challenge - Properties'/>
+        <page name='06 - Methods'/>
+        <page name='07 - Challenge - Methods'/>
+    </pages>
+</playground>
