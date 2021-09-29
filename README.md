@@ -10,4 +10,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                            | Version | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1=5.0](https://github.com/raywenderlich/video-ps2-materials/tree/versions/5.0) | 5.0     | 2020-08-01   |
+| [versions/5.0](https://github.com/raywenderlich/video-ps2-materials/tree/versions/5.0) | 5.0     | 2020-08-01   |
